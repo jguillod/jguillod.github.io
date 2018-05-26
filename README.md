@@ -1,3 +1,3 @@
 # jguillod.github.io
 
-see [www.imed.ch](www.imed.ch) !
+see [www.imed.ch](http://www.imed.ch) !
